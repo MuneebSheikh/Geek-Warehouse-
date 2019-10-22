@@ -1,0 +1,7 @@
+D:\SAM\Geek Warehouse\Construction\Construction_Classes\Construction\Construction\bin\Debug\Construction.exe.config
+D:\SAM\Geek Warehouse\Construction\Construction_Classes\Construction\Construction\bin\Debug\Construction.exe
+D:\SAM\Geek Warehouse\Construction\Construction_Classes\Construction\Construction\bin\Debug\Construction.pdb
+D:\SAM\Geek Warehouse\Construction\Construction_Classes\Construction\Construction\obj\Debug\Construction.csprojAssemblyReference.cache
+D:\SAM\Geek Warehouse\Construction\Construction_Classes\Construction\Construction\obj\Debug\Construction.csproj.CoreCompileInputs.cache
+D:\SAM\Geek Warehouse\Construction\Construction_Classes\Construction\Construction\obj\Debug\Construction.exe
+D:\SAM\Geek Warehouse\Construction\Construction_Classes\Construction\Construction\obj\Debug\Construction.pdb
