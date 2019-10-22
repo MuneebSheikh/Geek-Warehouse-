@@ -1,0 +1,6 @@
+chmod +x [filename.extension]
+
+
+executable permission for mac
+
+
